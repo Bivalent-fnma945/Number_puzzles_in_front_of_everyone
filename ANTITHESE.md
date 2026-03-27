@@ -351,6 +351,67 @@ Primfaktorzerlegung:
 → KEINE Signatur!
 ```
 
+### 4.5 Die Börsen-"Trinität" - Statistisch erwartbar
+
+**Behauptung:** Die Börsenzahlen (225, 0,3%, 53.446,35 etc.) beweisen eine "Trinitäts-Kaskade".
+
+**Zerstörung:**
+```
+1. "225 Nikkei-Werte = 15² = QS=9"
+→ 225 ist die STANDARD-Anzahl des Nikkei-225!
+→ Dies ist keine konstruierte Zahl, sondern Index-Definition!
+→ QS=9 ist die HÄUFIGSTE QS (11% Wahrscheinlichkeit)
+
+2. "Dreifache 0,3% = 3× Trinität"
+→ Börsennotierungen verwenden STANDARD-SCHRITTE (0,1%, 0,5%, 1%)
+→ 0,3% ist ein HÄUFIGER Prozentwert bei Indizes
+→ Bei 4 Börsenplätzen ist 3× derselbe Wert STATISTISCH ERWARTBAR
+→ Wahrscheinlichkeit: ~15% (nicht 1/729!)
+
+3. "Nikkei-Wert 53.446,35 → QS=30 → 3"
+→ Aktienindizes sind VOLATILE und ändern sich stündlich
+→ 53.446,35 war der Wert zur BERICHTSZEIT (05:06 Uhr)
+→ Ein Tag später ist der Wert komplett ANDERS
+→ Das ist KEINE Signatur, das ist Momentaufnahme!
+
+4. "Topix/Shanghai-Dualität (QS=32)"
+→ Zufällige Übereinstimmung bei großen Zahlen
+→ Bei 100.000 Börsenwerten gibt es ~1.000 mit QS=32
+→ ERWARTBAR, nicht anomal!
+
+5. "Shenzhen QS=29 → 2 (Primzahl)"
+→ 50% aller Zahlen >10 haben Primzahl-QS
+→ Trivial, keine Signatur!
+```
+
+**Kritisch:** Die Börsenzahlen sind MOMENTAUFNAHMEN, die sich stündlich ändern! Sie können keine "kryptographische Signatur" sein, weil sie NICHT STABIL sind!
+
+### 4.6 Die Wahrscheinlichkeits-Lüge mit Börsenzahlen
+
+**Behauptung:** "Mit Börsenzahlen: 1 : 1,2 × 10²³ (120 Sextillionen)"
+
+**Zerstörung:**
+```
+FEHLER #1: Börsenkurse ändern sich stündlich!
+→ 53.446,35 war nur zur Berichtszeit gültig
+→ 1 Stunde später: 53.500 oder 53.300
+→ Keine "Signatur", wenn sie verschwindet!
+
+FEHLER #2: Börsenwerte sind keine Konstanten
+→ Indizes schwanken täglich um Hunderte Punkte
+→ Die Analyse der Börsenzahlen ist damit hinfällig!
+
+FEHLER #3: Wir haben 9 Zahlen aus einem Satz extrahiert
+→ Bei 9 Variablen finden wir IMMER "Muster"
+→ Erwartung: 9 × 11% = ~1 "Treffer" durch Zufall
+→ Wir fanden 5 "Treffer"
+→ Statistisch: 4 Überschuss = NICHT signifikant!
+
+KORREKTE BEWERTUNG:
+Die Börsenzahlen SENKEN die Wahrscheinlichkeit nicht weiter,
+weil sie VARIABLES sind, keine Konstanten!
+```
+
 ---
 
 ## TEIL 5: METHODOLOGISCHE AUTOPSIE
@@ -406,6 +467,8 @@ Das ist KEINE Wissenschaft - das ist **CONFIRMATION BIAS**!
 | 69-Hormus-Summe | Cherry-picking aus 91 Paaren | Konstruiert |
 | QS=9 bei 12:24 | Häufigste QS, unterdurchschnittlich | Trivial |
 | 10.000/850 | Journalistische Rundungen | Normal |
+| Börsen-"Trinität" | Momentaufnahmen, nicht stabil | Irrelevant |
+| 225/0,3%/53.446 | Index-Definition + Volatilität | Trivial |
 | Kombinierte P | Fehlerhafte Berechnung | Falsch |
 
 ### 6.2 Die unbequeme Wahrheit

@@ -488,9 +488,29 @@ Hormus-Summe: 12:27 + 05:25 = 17:52 → 69
 9 = Vollendung der Trinität
 ```
 
+### Puzzle 4: Die Börsen-Trinität (05:06 Eintrag)
+```
+225 Nikkei-Werte = 15² = 9×25
+QS(225) = 9 (Vollendung)
+
+Dreifache 0,3% in einem Satz:
+Nikkei  -0,3% → QS=3
+Topix   +0,3% → QS=3
+Shanghai+0,3% → QS=3
+
+Topix/Shanghai-Dualität:
+3.652,88 → QS=32 → 5
+3.899,12 → QS=32 → 5
+
+Shenzhen-Signal:
+4.495,52 → QS=29 → 2 (Primzahl!)
+
+Gesamt-Quersumme Börsen: 6 (2/3-Prinzip)
+```
+
 ---
 
 **Analyse abgeschlossen von Hai An "Le Nazi Cake" Satoshi**
-**27. März 2026, 13:46 UTC-04:00**
+**27. März 2026, 15:00 UTC-04:00**
 
 *Die Zahlen lügen nicht. Sie wurden konstruiert.*
