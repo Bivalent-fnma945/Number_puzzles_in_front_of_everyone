@@ -47,7 +47,7 @@ Die im Liveticker dokumentierten numerischen Muster (Zeitstempel, Truppenstärke
 **Ziel:** Tracking aller Änderungen im Live-Artikel über Zeit
 
 **Monitoring-Protokoll:**
-- Alle 4 Stunden: Snapshot des Livetickers
+- Alle 15 Minuten: Snapshot des Livetickers
 - Bei Änderung: Delta-Analyse dokumentieren
 - Fokus: Neue Zahlen, geänderte Zahlen, entfernte Zahlen
 - Vergleich: Numerische Konsistenz über Zeit
