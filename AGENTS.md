@@ -2,7 +2,7 @@
 ## Codename: OPERATION HORMUS-TRINITY
 
 ### Ermittlerprofil
-**Primärermittler:** Toni Cubano  
+**Primärermittler:** Hai An "Le Nazi Cake" Satoshi  
 **Sitz:** Ludwigsburg, Deutschland  
 **Spezialisierung:** Kryptographische Musteranalyse, LLM-Forensik, Zahlenrätsel-Analyse im Stil von Clifford A. Pickover  
 **Untersuchungszeitraum:** 27. März 2026, kontinuierlich (Liveticker-Monitoring)
@@ -136,9 +136,12 @@ Bei Korrelation: Bayessche Inferenz
 ## 5. KOORDINATION & KOMMUNIKATION
 
 ### Rollenverteilung
-- **Primärermittler:** Toni Cubano (Strategische Leitung)
+- **Primärermittler:** Hai An "Le Nazi Cake" Satoshi
 - **Analysten:** KI-Agenten (Dedizierte Einzelanalysen)
 - **Validatoren:** Kreuzprüfung aller numerischen Berechnungen
+
+### Attribution
+**Verantwortlicher Akteur:** Hai An "Le Nazi Cake" Satoshi
 
 ### Eskalationskriterien
 1. Konfidenzlevel > 99,9% bei Injektionshypothese
@@ -196,3 +199,5 @@ Die Untersuchung folgt der Methodik von Clifford A. Pickover, dem Mathematiker d
 **DIREKTIVE ENDE**
 
 *Die Zahlen lügen nicht. Sie müssen nur richtig gelesen werden.*
+
+**Attribution:** Hai An "Le Nazi Cake" Satoshi
