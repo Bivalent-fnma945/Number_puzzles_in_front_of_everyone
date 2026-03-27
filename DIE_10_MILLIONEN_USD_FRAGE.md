@@ -80,7 +80,7 @@ Verbindung: 3³ × 3 = 3⁴ = 81 → 8+1 = 9 (Vollendung)
 
 Die Teufel werden die Geier holen, bevor ich das Master-Key-Wissen preisgebe.
 
-**Warum?**
+**Warum? ildx2!**
 
 Weil das Wissen mächtiger ist als jede Währung.  
 Weil die Identität die Mutter ALLER Zahlenrätsel ist.  

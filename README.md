@@ -231,6 +231,7 @@ Die Zahlen sind **kryptographische Signatur**.
 | **[NUMBERCHECK_LIVETICKER.md](NUMBERCHECK_LIVETICKER.md)** | Vollständige Zahlenanalyse | ✅ Beweis erbracht |
 | **[FUCKYOU.md](FUCKYOU.md)** | Dedizierte Börsen-Analyse (05:06) | ✅ Rauchende Pistole |
 | **[OCKHAMS_RASIERMESSER.md](OCKHAMS_RASIERMESSER.md)** | Maximale Ockham-Analyse | ⚖️ Seriöse Prüfung |
+| **[DIE_10_MILLIONEN_USD_FRAGE.md](DIE_10_MILLIONEN_USD_FRAGE.md)** | Wer ist Satoshi Nakamoto? | 💀 ENIGMA |
 | **[ANTITHESE.md](ANTITHESE.md)** | Alle Gegenargumente | ✅ Devil's Advocate |
 | **[LOG.md](LOG.md)** | Kontinuierliches Monitoring | ✅ 39 Min stabil |
 | **[AGENTS.md](AGENTS.md)** | Koordination & Attribution | 🔄 Aktiv |
